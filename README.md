@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baargavshankar
-- 👀 I’m interested in ethical hacking
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning python,linux
-- 💞️ I’m looking to collaborate on pyhton and kalilinux
+- 💞️ I’m looking to develop codes on pyhton 
 - 📫 How to reach me  mail-id = baargavshankar@gmail.com ; mobile-no = 8637424342
 
 <!---
